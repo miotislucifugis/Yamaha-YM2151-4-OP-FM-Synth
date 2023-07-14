@@ -15,3 +15,5 @@ More info and discussion can be found here:
     
 Yukio Ishii's original project (in Japanese):
   http://www.ooishoo.org/?page_id=15
+
+![YM2151 pro mini](https://github.com/miotislucifugis/Yamaha-YM2151-Arduino-DIY-Synth-/assets/20709580/fccd2d4e-dd07-4092-9506-83470ab6b5e6)
