@@ -20,6 +20,7 @@ Yukio Ishii's original project (in Japanese):
 # YM2151-Arduino-Software
 
 Software for the ym2151-Shield for Arduino
+forked from :    https://github.com/masl123/YM2151-Arduino-Software
 
 ###INFO: This is a Controller Software for the YM2151 Shield from this Site: http://www.ooishoo.org/
 If you dont speak Japanese, you also can look at this Thread: http://chipmusic.org/forums/topic/17710/ym2151-shield-for-arduino/ for more informations about the Shield.
