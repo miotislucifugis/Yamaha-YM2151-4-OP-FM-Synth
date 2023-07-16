@@ -18,8 +18,7 @@ Yukio Ishii's original project (in Japanese):
 
 ![YM2151 pro mini](https://github.com/miotislucifugis/Yamaha-YM2151-Arduino-DIY-Synth-/assets/20709580/fccd2d4e-dd07-4092-9506-83470ab6b5e6)
 
-
-YM2151-Arduino-Software
+# YM2151-Arduino-Software
 
 Software for the ym2151-Shield for Arduino
 
