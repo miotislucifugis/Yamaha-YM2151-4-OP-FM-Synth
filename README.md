@@ -17,3 +17,14 @@ Yukio Ishii's original project (in Japanese):
   http://www.ooishoo.org/?page_id=15
 
 ![YM2151 pro mini](https://github.com/miotislucifugis/Yamaha-YM2151-Arduino-DIY-Synth-/assets/20709580/fccd2d4e-dd07-4092-9506-83470ab6b5e6)
+
+
+YM2151-Arduino-Software
+
+Software for the ym2151-Shield for Arduino
+
+###INFO: This is a Controller Software for the YM2151 Shield from this Site: http://www.ooishoo.org/
+If you dont speak Japanese, you also can look at this Thread: http://chipmusic.org/forums/topic/17710/ym2151-shield-for-arduino/ for more informations about the Shield.
+See Mapping.md for the Midi-CC to control the Chip.
+
+###Requirements: The Arduino Midi Library: https://github.com/FortySevenEffects/arduino_midi_library 
